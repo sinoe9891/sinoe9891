@@ -46,7 +46,7 @@
 
 ## 📊 Stats
 
-[![Gustavo Muñoz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timbergus&show_icons=true&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Danny Velásquez GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinoe9891&show_icons=true&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Reference URLs -->
 [LinkedIn]: https://www.linkedin.com/in/timbergus/?locale=en_US
