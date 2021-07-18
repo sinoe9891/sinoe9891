@@ -1,4 +1,9 @@
 ### Hi there! I'm Danny Sinoé - aka sinoe9891. Nice to meet you  👋
+### I'm a enthusiast developer in love with JavaScript
+- 🔭 I’m currently working at EAP Zamorano.
+- 🌱 I’m currently learning as much as I can.
+- 🥅 2021 goals: work in the next Mars Rover!
+- ⚡ Fun fact: I started coding because I wanted to build website.
 
 ### 🛠 Languages and Tools
 
