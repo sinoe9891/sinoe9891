@@ -2,7 +2,7 @@
 ### I'm a enthusiast developer in love with JavaScript
 - 🔭 I’m currently working at EAP Zamorano.
 - 🌱 I’m currently learning as much as I can.
-- 🥅 2021 goals: work in the next Mars Rover!
+- 🥅 2022 goals: To be a Senior UX / UI Designer!
 - ⚡ Fun fact: I started coding because I wanted to build website.
 
 ### 🛠 Languages and Tools
