@@ -37,11 +37,8 @@
 ## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [This is my first post](https://dev.to/timbergus/this-is-my-first-post-58ao)
-- [Flutter and Firebase (III): Storage.](https://medium.com/@timbergus/flutter-and-firebase-iii-storage-6d02bc0d936c?source=rss-5deeef280c69------2)
-- [Flutter and Firebase (II): Firestore.](https://medium.com/@timbergus/flutter-and-firebase-ii-firestore-2aea55d98a37?source=rss-5deeef280c69------2)
-- [Flutter and Firebase (I): Authentication.](https://medium.com/@timbergus/flutter-and-firebase-i-authentication-593926a1b704?source=rss-5deeef280c69------2)
-- [Routing in Flutter. Just a Quick Example.](https://medium.com/@timbergus/routing-in-flutter-just-a-quick-example-c7b2048c1be0?source=rss-5deeef280c69------2)
+- [Funciones: Líneas generales](https://qwerty.creativehonduras.com/funciones-lineas-generales/)
+- [Iniciar o clonar un repositorio GIT en Linux](https://qwerty.creativehonduras.com/iniciar-clonar-repositorio-git-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats
