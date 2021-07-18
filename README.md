@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Danny Sinoé - aka sinoe9891. Nice to meet you  👋
 
 <!--
 **sinoe9891/sinoe9891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
