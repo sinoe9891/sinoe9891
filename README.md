@@ -41,12 +41,12 @@
 <img alt="GitHub" width="58" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 [<img alt="VIM" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][VIM]
 <img alt="Terminal" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img alt="[C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 [<img alt="WebPack" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />][WebPack]
 
 
 
 <!--
+<img alt="[C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 [<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img alt="React" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
 [<img alt="ESLint" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />][ESLint]
@@ -74,7 +74,8 @@
 
 <!-- Reference URLs -->
 [LinkedIn]: https://www.linkedin.com/in/timbergus/?locale=en_US
-[CodePen]: https://codepen.io/timbergus
+[
+odePen]: https://codepen.io/timbergus
 [StackOverflow]: https://stackoverflow.com/users/1999316/timbergus
 [HTML]: https://github.com/search?q=html
 [CSS]: https://github.com/search?q=css
