@@ -6,21 +6,24 @@
 - ⚡ Fun fact: I started coding because I wanted to build website.
 
 ### 💬 Contact
-
-<a href="https://www.linkedin.com/in/danny-velasquez-cadenas/"><img alt="HTML" width="60" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
-</a>
-<a href="https://www.linkedin.com/in/danny-velasquez-cadenas/"><img alt="HTML" width="60" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>
 <a href="https://www.linkedin.com/in/danny-velasquez-cadenas/"><img alt="HTML" width="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
+<a href="https://www.instagram.com/sinoe9891/"><img alt="HTML" width="60" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>
+<a href="https://www.facebook.com/danny.velasquez.140"><img alt="HTML" width="60" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+</a>
+<a href="https://twitter.com/sinoe9891"><img alt="HTML" width="60" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
+</a>
+
 ## 🛠 Languages and Tools
 
 [<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img alt="CSS" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
-<img alt="Sass" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+[<img alt="Sass" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 <img alt="PHP" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img alt="mysql" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img alt="Firebase" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img alt="SQL" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img alt="wordpress" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 <img alt="wordpress" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />
@@ -37,7 +40,6 @@
 <img alt="Terminal" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img alt="[C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 [<img alt="WebPack" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />][WebPack]
-[<img alt="Firebase" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase]
 [<img alt="Visual Studio" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio]
 [<img alt="VIM" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][VIM]
 
