@@ -64,6 +64,9 @@
 ## 📃 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comandos GIT por Sinoe9891](https://qwerty.creativehonduras.com/comandos-git-por-sinoe9891/)
+- [PHP date(): Obtener día, mes, semana, año y hora actual con PHP](https://qwerty.creativehonduras.com/php-date-obtener-dia-mes-semana-ano-y-hora-actual-con-php/)
+- [https://qwerty.creativehonduras.com/reiniciar-apache-en-linux-centos-o-en-rhel-fedora/](https://qwerty.creativehonduras.com/reiniciar-apache-en-linux-centos-o-en-rhel-fedora/)
 - [Funciones: Líneas generales](https://qwerty.creativehonduras.com/funciones-lineas-generales/)
 - [Iniciar o clonar un repositorio GIT en Linux](https://qwerty.creativehonduras.com/iniciar-clonar-repositorio-git-linux/)
 <!-- BLOG-POST-LIST:END -->
