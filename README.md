@@ -71,8 +71,18 @@
 - [Iniciar o clonar un repositorio GIT en Linux](https://qwerty.creativehonduras.com/iniciar-clonar-repositorio-git-linux/)
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 Stats
 
+### 📫 You can find me
+- [Twitter](https://twitter.com/sinoe9891) 🐦
+- [Instagram](https://instagram.com/sinoe9891) 📸
+- [LinkedIn](https://www.linkedin.com/in/danny-velasquez-cadenas/) 💼
+- [Website](https://sinoe9891.com- In process) 🌍
+- [Blog](https://qwerty.creativehonduras.com) ✒️
+
+
+
+## 📊 Stats
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sinoe9891&theme=cobalt)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinoe9891&show_icons=true&theme=dark)
 
 <!-- Reference URLs -->
