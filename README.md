@@ -76,7 +76,7 @@
 - [Twitter](https://twitter.com/sinoe9891) 🐦
 - [Instagram](https://instagram.com/sinoe9891) 📸
 - [LinkedIn](https://www.linkedin.com/in/danny-velasquez-cadenas/) 💼
-- [Website](https://sinoe9891.com- In process) 🌍
+- [Website](https://sinoe9891.com)(in process) 🌍
 - [Blog](https://qwerty.creativehonduras.com) ✒️
 
 
