@@ -2,7 +2,7 @@
 ### I'm a enthusiast developer in love with JavaScript
 - 🔭 I’m currently working at Grupo K
 - 🌱 I’m currently learning as much as I can.
-- 🥅 2023 goals: ¡To be a Senior UX/UI Designer!
+- 🥅 2023 goals: ¡To be a Senior UX/UI Designer!  I succeeded
 - ⚡ Fun fact: I started coding because I wanted to build website.
 
 ### 💬 Contact
